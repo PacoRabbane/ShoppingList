@@ -1,0 +1,3 @@
+# ShoppingList
+
+Initital javascript project 
